@@ -1,0 +1,16 @@
+{
+  "name": "Pawan Buildz — Python Developer & Projects",
+  "short_name": "Pawan Buildz",
+  "description": "Portfolio of Pawan, a Python developer and project builder. Turning Ideas Into Working Code.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0c0a",
+  "theme_color": "#0a0c0a",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
